@@ -9,7 +9,7 @@ import { AppContainer } from 'react-hot-loader';
 import injectTapEventPlugin from 'react-tap-event-plugin';
 
 import Root from 'containers/Root';
-
+/* eslint-enable */
 injectTapEventPlugin();
 
 const rootEl = document.getElementById('root');
